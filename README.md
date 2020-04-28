@@ -1,6 +1,6 @@
 # Coronavirus Models
 
-<img src="logo.png" style="zoom:20%;" />
+![logo](logo.png)
 
 At [Produvia](https://produvia.com), we are developing coronavirus disease 2019 (COVID-19) models to fight and slow the spread of COVID-19.
 
