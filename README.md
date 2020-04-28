@@ -6,7 +6,7 @@
 
 At [Produvia](https://produvia.com), our vision is to detect symptomatic cases of the coronavirus disease 2019, or COVID-19, with 99% accuracy. We intend to accomplish this by developing two deep learning models:
 
-1. **COVID-19 Diagnosis **([Papers With Code](https://paperswithcode.com/task/covid-19-detection))
+1. **COVID-19 Diagnosis** ([Papers With Code](https://paperswithcode.com/task/covid-19-detection))
 2. **COVID-19 Image Segmentation** ([Papers With Code](https://paperswithcode.com/task/covid-19-image-segmentation))
 
 ## COVID-19 Datasets
