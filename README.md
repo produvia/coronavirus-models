@@ -70,7 +70,7 @@ We intend to use publically-available coronavirus datasets:
 	}
 	```
 	
-4. **ChestX-ray8** (Dataset: [here](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data) and [here](https://nihcc.app.box.com/v/ChestXray-NIHCC), [Paper](https://arxiv.org/abs/1705.02315))
+4. **ChestX-ray8** ([Dataset](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data), [Dataset Mirror](https://nihcc.app.box.com/v/ChestXray-NIHCC), [Paper](https://arxiv.org/abs/1705.02315))
 	
 	Description: 108,948 frontal-view X-ray images of 32,717 unique patients with the text-mined eight disease image labels
 	
@@ -89,10 +89,10 @@ We intend to use publically-available coronavirus datasets:
 	}
 	```
 
-## Interested to Contribute?
+## Contributions
 
-Create a [new issue](https://github.com/produvia/coronavirus-models/issues/new/choose) or issue a [new pull request](https://github.com/produvia/coronavirus-models/compare).
+Interested in contributing? Create a [new issue](https://github.com/produvia/coronavirus-models/issues/new/choose) or issue a [new pull request](https://github.com/produvia/coronavirus-models/compare).
 
-## Interested to Chat?
+## Contact
 
-Reach out at hello@produvia.com and a member of our team will get back to you.
+Interested to chat? Reach out at hello@produvia.com and a member of our team will get back to you.
