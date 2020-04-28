@@ -70,6 +70,24 @@ We intend to use publically-available coronavirus datasets:
 	}
 	```
 	
+4. **ChestX-ray8** (Dataset: [here](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data) and [here](https://nihcc.app.box.com/v/ChestXray-NIHCC), [Paper](https://arxiv.org/abs/1705.02315))
+	
+	Description: 108,948 frontal-view X-ray images of 32,717 unique patients with the text-mined eight disease image labels
+	
+	License: Non-commercial. Can only be used for research and educational purposes. Commercial use is prohibited.
+	
+	Citation:
+	
+	```
+	@misc{wang2017chestxray8,
+	    title={ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases},
+	    author={Xiaosong Wang and Yifan Peng and Le Lu and Zhiyong Lu and Mohammadhadi Bagheri and Ronald M. Summers},
+	    year={2017},
+	    eprint={1705.02315},
+	    archivePrefix={arXiv},
+	    primaryClass={cs.CV}
+	}
+	```
 
 ## Interested to Contribute?
 
