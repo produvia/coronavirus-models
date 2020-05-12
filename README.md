@@ -13,26 +13,7 @@ At [Produvia](https://produvia.com), our vision is to detect symptomatic cases o
 
 We intend to use publically-available coronavirus datasets:
 
-1. **COVID-CT** ([Dataset](https://github.com/UCSD-AI4H/COVID-CT), [Paper](https://arxiv.org/abs/2003.13865))
-
-   Description: The COVID-CT-Dataset has 275 CT images containing clinical findings of COVID-19.
-
-   License: Non-commercial. Can only be used for research and educational purposes. Commercial use is prohibited.
-
-   Citation:
-
-	```
-	@misc{zhao2020covidctdataset,
-    title={COVID-CT-Dataset: A CT Scan Dataset about COVID-19},
-		author={Jinyu Zhao and Yichen Zhang and Xuehai He and Pengtao Xie},
-		year={2020},
-		eprint={2003.13865},
-		archivePrefix={arXiv},
-		primaryClass={cs.LG}
-	}
-   ```
-
-2. **COVID-19 Image Data Collection** ([Dataset](https://github.com/ieee8023/covid-chestxray-dataset), [Paper](https://arxiv.org/abs/2003.11597))
+1. **COVID-19 Image Data Collection** ([Dataset](https://github.com/ieee8023/covid-chestxray-dataset), [Paper](https://arxiv.org/abs/2003.11597))
 
    Description: A database of COVID-19 cases with chest X-ray or CT images.
 
@@ -51,7 +32,7 @@ We intend to use publically-available coronavirus datasets:
 	}
 	```
 
-3. **COVIDx** ([Dataset](https://github.com/lindawangg/COVID-Net))
+2. **COVIDx** ([Dataset](https://github.com/lindawangg/COVID-Net))
 
 	Description: A dataset with 16,756 chest radiography images across 13,645 patient cases.
 
@@ -69,7 +50,26 @@ We intend to use publically-available coronavirus datasets:
 	    primaryClass={eess.IV}
 	}
 	```
-	
+
+3. **COVID-CT** ([Dataset](https://github.com/UCSD-AI4H/COVID-CT), [Paper](https://arxiv.org/abs/2003.13865))
+
+   Description: The COVID-CT-Dataset has 275 CT images containing clinical findings of COVID-19.
+
+   License: Non-commercial. Can only be used for research and educational purposes. Commercial use is prohibited.
+
+   Citation:
+
+	```
+	@misc{zhao2020covidctdataset,
+    title={COVID-CT-Dataset: A CT Scan Dataset about COVID-19},
+		author={Jinyu Zhao and Yichen Zhang and Xuehai He and Pengtao Xie},
+		year={2020},
+		eprint={2003.13865},
+		archivePrefix={arXiv},
+		primaryClass={cs.LG}
+	}
+   ```
+
 4. **ChestX-ray8** ([Dataset](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data), [Dataset Mirror](https://nihcc.app.box.com/v/ChestXray-NIHCC), [Paper](https://arxiv.org/abs/1705.02315))
 	
 	Description: 108,948 frontal-view X-ray images of 32,717 unique patients with the text-mined eight disease image labels
