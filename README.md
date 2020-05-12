@@ -89,6 +89,42 @@ We intend to use publically-available coronavirus datasets:
 	}
 	```
 
+5. **Figure 1 COVID-19 Chest X-ray Dataset Initiative** ([Dataset](https://github.com/agchung/Figure1-COVID-chestxray-dataset))
+
+	Description: We are building this dataset as a part of the COVIDx dataset to enhance our models for COVID-19 detection (COVID-Net) and COVID-19 risk stratification (COVID-RiskNet)
+
+	License: TBD
+
+6. **covid19-images** ([Dataset](https://github.com/coyotespike/covid19-images))
+
+	Description: A large collection of COVID-19 radiology imaging datasets for use in machine learning
+
+	License: The Unlicense. A license with no conditions whatsoever which dedicates works to the public domain. Unlicensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+7. **CORONACASES.ORG** ([Dataset](https://coronacases.org/forum/coronacases-org-helping-radiologists-to-help-people-in-more-than-100-countries-1))
+
+	Description: This community is for health professionals share confirmed cases of coronavirus. We review posts in order to assure anonymization.
+
+	License: TBD
+
+8. **COVID-19 BSTI Imaging Database** ([Dataset](https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/))
+
+	Description: The British Society of Thoracic Imaging (BSTI), in conjunction with Cimar UK’s Imaging Cloud Technology (cimar.co.uk), have designed, built and deployed a simple, free to use, anonymised and encrypted online portal to upload and refer imaging of patients with either confirmed or suspected COVID-19. From these cases, BSTI hope to provide an imaging database of known UK patient examples for reference and teaching.
+
+	License: TBD
+
+9. **The Role of Chest Imaging in Patient Management during the COVID-19 Pandemic** ([Dataset](https://www.fleischner-covid19.org/))
+
+	Description: Welcome to the Fleischner Society’s educational repository of radiographic and CT images of patients diagnosed with COVID-19. We provide this on-line supplement to our published statement as an aid to familiarize the medical community with the typical imaging findings of COVID-19.
+
+	License: TBD
+
+10. **SIRM COVID-19 DATABASE** ([Dataset](https://www.sirm.org/category/senza-categoria/covid-19/))
+
+	Description: COVID-19 radiological cases from the Italian Society of Medical Radiology (SIRM), including images from X-rays and CT scans.
+
+	License: TBD
+
 ## Contributions
 
 Interested in contributing? Create a [new issue](https://github.com/produvia/coronavirus-models/issues/new/choose) or issue a [new pull request](https://github.com/produvia/coronavirus-models/compare).
