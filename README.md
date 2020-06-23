@@ -13,13 +13,15 @@ At [Produvia](https://produvia.com), our vision is to detect symptomatic cases o
 
 We intend to use publically-available coronavirus datasets:
 
-1. **COVID-19 Image Data Collection** ([Dataset](https://github.com/ieee8023/covid-chestxray-dataset), [Paper](https://arxiv.org/abs/2003.11597))
+1. **COVID-19 Image Data Collection** ([Dataset](https://github.com/ieee8023/covid-chestxray-dataset), [Paper 1](https://arxiv.org/abs/2003.11597), [Paper 2](https://arxiv.org/abs/2006.11988))
 
    Description: A database of COVID-19 cases with chest X-ray or CT images.
 
    License: Non-commercial. Can only be used for research and educational purposes. Commercial use is prohibited.
 
 	Citation:
+
+	Paper 1
 
 	```
 	@misc{cohen2020covid19,
@@ -29,6 +31,19 @@ We intend to use publically-available coronavirus datasets:
 		eprint={2003.11597},
 		archivePrefix={arXiv},
 		primaryClass={eess.IV}
+	}
+	```
+
+	Paper 2
+
+	```
+	@misc{cohen2020covid19,
+	    title={COVID-19 Image Data Collection: Prospective Predictions Are the Future},
+	    author={Joseph Paul Cohen and Paul Morrison and Lan Dao and Karsten Roth and Tim Q Duong and Marzyeh Ghassemi},
+	    year={2020},
+	    eprint={2006.11988},
+	    archivePrefix={arXiv},
+	    primaryClass={q-bio.QM}
 	}
 	```
 
